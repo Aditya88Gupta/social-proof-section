@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/html-bootstrap-css-code-ply-atom-6jWBApc8Y
 - Live Site URL: https://aditya88gupta.github.io/social-proof-section/
 
 ## My process
